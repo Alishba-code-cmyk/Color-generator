@@ -1,0 +1,25 @@
+.color-box{
+    height: 200px;
+    width: 200px;
+border-radius: 50%;
+  margin-left: 525px;  
+margin-top: 150px;  
+
+}
+
+
+body{
+
+    text-align: center;
+    
+    background-image: url(paintings\ for\ printing.jpg);
+    background-size: cover;
+}
+
+button{
+    
+    height: 40px;
+    background-color:black;
+    color: white;
+    
+}
